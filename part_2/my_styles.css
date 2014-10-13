@@ -5,3 +5,32 @@
   /* Make the invisible visible */
   border: thin red solid;
 }
+.row {
+	clear:both;
+}
+
+.headerobject {
+	height: 50px;
+	width: 500px;
+	color: lightgrey;
+}
+
+.fullpage {
+	width: 100%;
+	float:left;
+}
+
+.container_1 {
+	width: 33%;
+	float:left;
+}
+
+.container_2 {
+	width: 66%;
+	float:left;
+}
+
+.container_3 {
+	width: 25%;
+	float: left;
+}
